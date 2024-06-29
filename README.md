@@ -1,6 +1,7 @@
 # Amazon 2023 Products Dashboard
 
-![image](https://github.com/RahulHans31/amazon-products-dashboard/assets/94359468/f9bdafa8-e92c-43a4-aab3-2262491efa00)
+![image](https://github.com/RahulHans31/amazon-products-dashboard/assets/94359468/f7f46e37-1df0-4310-a978-25177b69c686)
+
 
 
 ## Description
